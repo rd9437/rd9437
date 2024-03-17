@@ -1,22 +1,28 @@
-### Hi there 👋
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/your-profile" target="_blank" style="background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">LinkedIn</a>
+# Hi there, I'm Rudransh Das! 👋
 
-<!-- Portfolio -->
-<a href="https://your-portfolio.com" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Portfolio</a>
+I'm a passionate technologist who loves to build cool stuff and solve problems with technology.
 
+![Profile Picture](https://media.licdn.com/dms/image/D5603AQHVAkVLMetScw/profile-displayphoto-shrink_100_100/0/1673509623934?e=1716422400&v=beta&t=BmxXkpUoorg1MkJ4sCOcgx8OrHlezlKYdSWUrdueMR0)
 
-<!--
-**rd9437/rd9437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm deeply interested in exploring the intersection of technology, design, and innovation. With a background in computer science and a keen eye for aesthetics, I strive to create impactful solutions that not only function flawlessly but also delight users.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- General-Purpose Language: Python 
+- Frontend Development: HTML, CSS, JavaScript
+- Database: MySQL
+
+## Connect with Me
+
+Let's connect and collaborate! You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/rudranshdas/)
+- [Portfolio Website](https://rudransh.rf.gd)
+
+Feel free to reach out to me via email at [rudransh9437@gmail.com].
+
+## Thanks for stopping by!
+
+Thanks for visiting my profile. I'm excited to share more about my projects and experiences with you.
