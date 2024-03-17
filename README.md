@@ -1,4 +1,10 @@
 ### Hi there 👋
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank" style="background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">LinkedIn</a>
+
+<!-- Portfolio -->
+<a href="https://your-portfolio.com" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Portfolio</a>
+
 
 <!--
 **rd9437/rd9437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
