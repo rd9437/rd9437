@@ -14,6 +14,8 @@ I'm deeply interested in exploring the intersection of technology, design, and i
 - Frontend Development: HTML, CSS, JavaScript
 - Database: MySQL
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rd9437)](https://github.com/rd9437/github-readme-stats)
+
 ## Connect with Me
 
 Let's connect and collaborate! You can find me on:
