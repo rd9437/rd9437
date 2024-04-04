@@ -20,7 +20,8 @@ I'm deeply interested in exploring the intersection of technology, design, and i
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/rudranshdas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudranshdas)
+
 - [Portfolio Website](https://rudransh.rf.gd)
 
 Feel free to reach out to me via email at [rudransh9437@gmail.com].
