@@ -14,7 +14,8 @@ I'm deeply interested in exploring the intersection of technology, design, and i
 - Frontend Development: HTML, CSS, JavaScript
 - Database: MySQL
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rd9437)](https://github.com/rd9437/github-readme-stats)
+
+  [!Rudransh Das' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rd9437&hide=scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/rd9437)
 
 ## Connect with Me
 
