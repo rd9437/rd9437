@@ -31,3 +31,5 @@ Feel free to reach out to me via email at [rudransh9437@gmail.com].
 ## Thanks for stopping by!
 
 Thanks for visiting my profile. I'm excited to share more about my projects and experiences with you.
+
+![](https://komarev.com/ghpvc/?username=rd9437&color=green)
