@@ -2,7 +2,7 @@
 
 I'm a passionate technologist who loves to build cool stuff and solve problems with technology.
 
-![Profile Image](https://media.licdn.com/dms/image/v2/D5603AQHVAkVLMetScw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673509623934?e=1737590400&v=beta&t=oWJyFD-UWNLWrZcTuegYDLCCDjjBo7XN2i7Axf-YL3g)
+![Profile Image](https://media.licdn.com/dms/image/v2/D5603AQHVAkVLMetScw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673509623934?e=1743033600&v=beta&t=X_L8zraUPxGnfmdR9vm-TyFoBWA_8j7e03ey9YN9Vqw)
 
 
 ## About Me
