@@ -2,7 +2,6 @@
 
 I'm a passionate technologist who loves to build cool stuff and solve problems with technology.
 
-![Rudransh Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQEeN0NT7g4H6A/profile-displayphoto-shrink_100_100/B56ZVQdgp2HEAU-/0/1740811669182?e=1750291200&v=beta&t=aXJBs2vDYk34PnoOPpdB6j68NEmUJbeRQSko060ohbE)
 
 ## About Me
 
