@@ -2,8 +2,7 @@
 
 I'm a passionate technologist who loves to build cool stuff and solve problems with technology.
 
-![Profile Image](https://media.licdn.com/dms/image/v2/D5603AQHVAkVLMetScw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673509623934?e=1743033600&v=beta&t=X_L8zraUPxGnfmdR9vm-TyFoBWA_8j7e03ey9YN9Vqw)
-
+![Rudransh Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQEeN0NT7g4H6A/profile-displayphoto-shrink_100_100/B56ZVQdgp2HEAU-/0/1740811669182?e=1750291200&v=beta&t=aXJBs2vDYk34PnoOPpdB6j68NEmUJbeRQSko060ohbE)
 
 ## About Me
 
@@ -11,12 +10,12 @@ I'm deeply interested in exploring the intersection of technology, design, and i
 
 ### Skills
 
-- General-Purpose Language: Python 
+- General-Purpose Language: Python
+- Data Analytics Tools: PowerBI
+- Machine Learning (Beginner)
 - Frontend Development: HTML, CSS, JavaScript
 - Database: MySQL
 
-
-[![Rudransh Das' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=rd9437&hide=scss,stylus,blade,jupyter%20notebook,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/rd9437)
 
 ## Connect with Me
 
